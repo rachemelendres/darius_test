@@ -54,7 +54,7 @@ function showHome() {
 <!-- Metrics -->
         <div class="w3-row">
 				<div class="w3-col l6 w3-padding">
-          <div class ="w3-container w3-border w3-border-blue w3-round-large" id ="customer-cont" style = "width:100%; height:400px">
+          <div class ="w3-container w3-border w3-border-blue w3-round-xlarge" id ="customer-cont" style = "width:100%; height:400px">
           <h2> Customer </h2><br>
           <div class="w3-row" id ="customer-kpis">
           <div class="w3-row" id ="customer-kpis-1" class = "nowrap">
@@ -95,7 +95,7 @@ function showHome() {
         </div></div>
         
           <div class="w3-col l6 w3-padding">
-          <div class ="w3-container w3-border w3-border-blue w3-round-large" id ="financial-cont" style = "width:100%; height:400px">
+          <div class ="w3-container w3-border w3-border-blue w3-round-xlarge" id ="financial-cont" style = "width:100%; height:400px">
           <h2>  Financial </h2><br>
           <div class = "w3-row" id = "financial-kpis">
           <div class="w3-row" id ="financial-kpis-1">
