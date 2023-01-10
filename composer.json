@@ -8,5 +8,11 @@
 
             "App\\":"darius_test"
         }
+    },
+
+    "scripts": {
+        "test": "./vendor/bin/phpunit" 
+
+
     }
 }
