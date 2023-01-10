@@ -1,1 +1,5 @@
 notes/
+vendor
+composer.lock
+phpunit.xml
+.github
