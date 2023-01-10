@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"SampleTest::testTrueReturnstrue":3,"SampleTest::testFailure":3},"times":{"SampleTest::testTrueReturnstrue":0.003,"SampleTest::checkIfHasKey":0,"Warning":0.004,"SampleTest::testFailure":0}}
