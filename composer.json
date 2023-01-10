@@ -1,4 +1,17 @@
-{
+{ "name": "projects/dashboard",
+"description": "A monitoring dashboard",
+"keywords": [
+  "dashboard",
+  "dost",
+  "analytics"
+],
+"type": "library",
+"license": "MIT",
+"require": {
+  "php": ">=7.3"
+},
+
+
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
