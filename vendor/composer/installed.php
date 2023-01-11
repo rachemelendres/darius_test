@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'projects/dashboard',
+        'name' => 'rlm-projects/darius_test',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'ee34a4037832de1d0cfba968a8ec491eb1ec7039',
+        'reference' => '9d3b72136b70c016289aaf191afbb710e2694c1f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -109,10 +109,10 @@
             'aliases' => array(),
             'dev_requirement' => true,
         ),
-        'projects/dashboard' => array(
+        'rlm-projects/darius_test' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'ee34a4037832de1d0cfba968a8ec491eb1ec7039',
+            'reference' => '9d3b72136b70c016289aaf191afbb710e2694c1f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
