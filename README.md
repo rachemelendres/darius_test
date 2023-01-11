@@ -1,2 +1,5 @@
 # Darius Dashboard 2022
-## Removing text here
+## Installation
+```
+composer require rlm-projects/darius_test
+```
