@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>DARIUS Dashboard 2023</title>
+	<title>DARIUS Dashboard 2023 - New Release</title>
 	<!--<link rel="stylesheet" type="text/css" href="main.css" />-->
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
